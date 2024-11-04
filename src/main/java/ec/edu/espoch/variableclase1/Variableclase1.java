@@ -14,6 +14,7 @@ public class Variableclase1 {
         /*ya no puedom popi*/
         //Cambie los numeros reales por numeros imaginario
         /*Realizamos el hola mundo xd
+        
         System.out.println("Hello World!");
         System.out.println("Hola Mundo Zamira");*/
 
@@ -265,7 +266,7 @@ public class Variableclase1 {
         
        //ESTRUCTURA REPETITIVA: Do-While
        
-      /* int n=0;
+      int n=3;
        do{
            System.out.println("Valor de n:"+n);
            n++;
@@ -273,7 +274,7 @@ public class Variableclase1 {
        }
        while(n<2);
         System.out.println("fon del programa");
-    }*/
+    }
     
       
       
